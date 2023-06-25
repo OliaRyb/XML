@@ -1,0 +1,4 @@
+<person id="1" name="Olia" age="27">
+	<pets> No pets </pets>
+	<salary currency="USD">1000000</salary>
+</person>
