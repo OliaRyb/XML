@@ -1,0 +1,14 @@
+<xml>
+	<title> Preferences </title>
+	<favorite>
+		<movie> Marley and me </movie>
+		<series> Castle </series>
+		<food> Burgers </food>
+		<season> Winter </winter>
+	</favorite>
+	<wantToVisit>
+		<country> Tanzania </country>
+		<country> Italy </country>
+		<country> Argentina </country>
+	</wantToVisit>
+</xml> 

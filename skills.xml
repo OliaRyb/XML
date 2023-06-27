@@ -1,0 +1,21 @@
+<xml>
+	<skillList type="Utilities"> 
+		<skill> Git Bash </skill>
+		<skill> Postman </skill>
+		<skill> DevTools </skill>
+	</skillList>
+	<skillList type="ProgramLanguage"> 
+		<skill> Python </skill>
+		<skill> SQL </skill>
+		<skill> JavaScript </skill>
+	</skillList>
+	<skillList type="MakupLanguages"> 
+		<skill> HTML </skill>
+		<skill> CSS </skill>
+		<skill> XML </skill>
+	</skillList>
+	<skillList type="Protocols"> 
+		<skill> HTTP </skill>
+		<skill> IP </skill>
+	</skillList>
+</xml>
