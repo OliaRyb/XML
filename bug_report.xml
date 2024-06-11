@@ -1,0 +1,12 @@
+<bug_report id="01" date="11.06.2024" author="volia_dreamer" severity="critical">
+  <environment OS="Android 13" device="Sumsung s22"/>
+  <title> The app is collapsed in main menu after tapping the Settings button </title>
+  <precondition>   1. The app is downloaded
+                   2. The app is launched
+  </precondition>
+  <steps>   1. Tap Burger Menu
+            2. Tap Settings button
+  </steps>
+  <actual_result> The app is collapsed </actual_result>
+  <expected_result> The setting section is opened </expected_result>
+</bug_report>
